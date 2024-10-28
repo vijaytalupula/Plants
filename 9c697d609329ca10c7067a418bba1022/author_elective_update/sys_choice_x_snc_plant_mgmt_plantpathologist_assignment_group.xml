@@ -6,6 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-04 07:40:28</sys_created_on>
+            <sys_id>8d693511c3e19210afa6fc84e4013156</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>assignment_group</sys_name>
             <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
@@ -29,6 +30,7 @@
             <sys_created_on>2024-10-15 07:52:13</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>96e931d5c3e19210afa6fc84e401319b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-15 07:52:13</sys_updated_on>
@@ -48,6 +50,7 @@
             <sys_created_on>2024-10-04 07:40:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>16e931d5c3e19210afa6fc84e401319c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-04 07:40:28</sys_updated_on>
@@ -67,6 +70,7 @@
             <sys_created_on>2024-10-15 07:52:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>92e931d5c3e19210afa6fc84e401319d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-15 07:52:14</sys_updated_on>
@@ -86,6 +90,7 @@
             <sys_created_on>2024-10-04 07:40:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>12e931d5c3e19210afa6fc84e401319e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-04 07:40:28</sys_updated_on>
@@ -105,6 +110,7 @@
             <sys_created_on>2024-10-04 07:40:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ee931d5c3e19210afa6fc84e401319e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-04 07:40:28</sys_updated_on>
@@ -124,6 +130,7 @@
             <sys_created_on>2024-10-04 07:40:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ae931d5c3e19210afa6fc84e40131b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-04 07:40:28</sys_updated_on>
@@ -143,6 +150,7 @@
             <sys_created_on>2024-10-04 07:40:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ae931d5c3e19210afa6fc84e40131b9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-04 07:40:28</sys_updated_on>
@@ -162,6 +170,7 @@
             <sys_created_on>2024-10-04 07:40:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>96e931d5c3e19210afa6fc84e40131ba</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-04 07:40:28</sys_updated_on>
